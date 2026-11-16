@@ -1,0 +1,12 @@
+{
+  "name": "com.song.unity-popup",
+  "version": "1.0.0",
+  "displayName": "Song Unity Popup",
+  "description": "Resources-based asynchronous popup stack extracted from CrawlStars.",
+  "unity": "6000.3",
+  "dependencies": {
+    "com.cysharp.unitask": "2.5.10",
+    "com.unity.ugui": "2.0.0"
+  },
+  "author": { "name": "Song" }
+}

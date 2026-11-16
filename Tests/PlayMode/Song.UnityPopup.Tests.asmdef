@@ -1,0 +1,6 @@
+{
+  "name": "Song.UnityPopup.Tests",
+  "references": ["Song.UnityPopup", "UniTask", "Unity.ugui", "Unity.TextMeshPro"],
+  "optionalUnityReferences": ["TestAssemblies"],
+  "autoReferenced": false
+}

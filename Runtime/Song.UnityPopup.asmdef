@@ -1,0 +1,6 @@
+{
+  "name": "Song.UnityPopup",
+  "rootNamespace": "Popup",
+  "references": ["UniTask", "Unity.ugui", "Unity.TextMeshPro"],
+  "autoReferenced": true
+}
